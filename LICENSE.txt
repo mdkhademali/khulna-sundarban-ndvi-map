@@ -1,0 +1,11 @@
+Project: Sundarbans NDVI Analysis
+
+Description:
+This project focuses on analyzing the Normalized Difference Vegetation Index (NDVI) for the Sundarbans region in Bangladesh. It utilizes Landsat 8 satellite imagery to assess the vegetation health and detect land cover changes in the year 2022. The analysis is performed using Google Earth Engine, with the output visualized on an NDVI map.
+
+Copyright (c) https://github.com/mdkhademali
+
+---
+
+For more information, contact:
+[khademgenu22@gmail.com]
