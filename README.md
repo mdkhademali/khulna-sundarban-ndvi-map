@@ -1,6 +1,6 @@
-# Sundarbans NDVI Analysis
+## Khulna-Sundarbans NDVI Analysis
 
-This project focuses on analyzing the **Normalized Difference Vegetation Index (NDVI)** for the **Sundarbans region**, located in the **Khulna Division** of Bangladesh. The analysis uses **Landsat 8** satellite imagery to evaluate vegetation health and land cover dynamics.
+This project focuses on analyzing the **Normalized Difference Vegetation Index (NDVI)** for the **Khulna Sundarbans region**, located in the **Khulna Division** of Bangladesh. The analysis uses **Landsat 8** satellite imagery to evaluate vegetation health and land cover dynamics.
 
 ### Project Overview
 The goal of this project is to calculate NDVI values over the year 2022 to understand the vegetation health in the Sundarbans. By analyzing NDVI, we can assess vegetation density, detect forest areas, and identify regions affected by environmental stressors such as drought or deforestation.
@@ -38,5 +38,13 @@ The data used in this project is from **Landsat 8** satellite imagery available 
 This project focuses on analyzing the **Normalized Difference Vegetation Index (NDVI)** for the **Sundarbans region**.
 
 ## Screenshots
+
+**Map 1**
+
 ![NDVI Map](Images/ndvi-image%20(1).png)
+
+**Map 2**
+
 ![NDVI Map](Images/ndvi-image%20(2).png)
+
+© mdkhademali
